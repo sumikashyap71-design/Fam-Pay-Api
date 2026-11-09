@@ -9,7 +9,7 @@ import os
 
 # ========== CONFIG ==========
 GMAIL_USER = os.getenv("GMAIL_USER", "sumiikashyap16@gmail.com")
-GMAIL_PASS = os.getenv("GMAIL_PASS", "amwdiintzotwusvo")
+GMAIL_PASS = os.getenv("GMAIL_PASS", "eyyvodxeheikkxqt")
 API_KEY = os.getenv("API_KEY", "FAMAPPAPI")
 # ============================
 
